@@ -4,3 +4,4 @@ Dataset/
 Healthy/
 Covid/
 Others/
+*.hdf5
