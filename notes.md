@@ -1,0 +1,11 @@
+# What is CNN
+- Neural network that has one or more convolutional layers.
+- Neural network (Input layer -> hidden later -> output layer) (Like human neurons )
+- Convolutional layers 
+    -are the layers where filters are applied to the original image or to other features maps in a deep CNN.
+    - “looking at a function’s surroundings to make better/accurate predictions of its outcome.” 
+- Convolution is essentially sliding a filter over the input.
+- Features -> points/data/sections.
+- Kernel 
+    -  the kernel is nothing but a filter that is used to extract the features from the images. The kernel is a matrix that moves over the input data, performs the dot product with the sub-region of input data, and gets the output as the matrix of dot products.
+    - Each convolutional layer contains a series of filters known as convolutional kernels. The filter is a matrix of integers that are used on a subset of the input pixel values, the same size as the kernel. Each pixel is multiplied by the corresponding value in the kernel, then the result is summed up for a single value for simplicity representing a grid cell, like a pixel, in the output channel/feature map

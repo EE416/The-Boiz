@@ -1,7 +1,16 @@
 *.ipynb_checkpoints
+<<<<<<< Updated upstream
 # Image directories
 Dataset/
 Healthy/
 Covid/
 Others/
 *.hdf5
+=======
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.xdv
+>>>>>>> Stashed changes
